@@ -1,0 +1,15 @@
+.carousel-caption h5 {
+  text-transform: uppercase;
+  color: black;
+  font-size: 32px;
+}
+
+.carousel-caption p {
+  text-transform: uppercase;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+.carousel-indicators button {
+  background-color: black;
+}
