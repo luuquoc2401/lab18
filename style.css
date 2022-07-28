@@ -1,0 +1,18 @@
+.bg-img1 {
+  height: 100vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(naruto.jpg);
+}
+.bg-img2 {
+  height: 100vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(sasuke.jpg);
+}
+.bg-img3 {
+  height: 100vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(sakura.jpg);
+}
